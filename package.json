@@ -1,0 +1,22 @@
+{
+  "name": "easychain-sandbox",
+  "version": "1.0.0",
+  "description": "easychain sandbox which is used to run sidechain dapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "easychain team <dev@easychain.io>",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber": "https://github.com/EasychainTeam/easychain-sandbox",
+    "change-case": "3.0.0",
+    "json-sql": "https://github.com/EasychainTeam/json-sql"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.1",
+    "mocha": "^2.2.5",
+    "should": "~4.6.0"
+  }
+}
