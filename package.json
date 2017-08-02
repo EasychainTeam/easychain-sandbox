@@ -9,9 +9,9 @@
   "author": "easychain team <dev@easychain.io>",
   "license": "ISC",
   "dependencies": {
-    "bignumber": "https://github.com/EasychainTeam/easychain-sandbox",
+    "bignumber": "https://github.com/EasychainTeam/easychain-sandbox/tarball/master",
     "change-case": "3.0.0",
-    "json-sql": "https://github.com/EasychainTeam/json-sql"
+    "json-sql": "https://github.com/EasychainTeam/json-sql/tarball/master"
   },
   "devDependencies": {
     "chai": "^3.0.0",
